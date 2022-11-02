@@ -42,7 +42,7 @@ export async function all(m) {
         • Link Aja: [082127487538]
         
         Nomor Owner :
-        wa.me/6282127487538
+        wa.me/62882019846275
         
         ▌│█║▌║▌║║▌║▌║█│▌
         
